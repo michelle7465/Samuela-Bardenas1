@@ -3,7 +3,7 @@
 **Date: [May 15 2024]**  
 **Prepared by: [Bardenas John Paul O.] and [Samuela Michelle M.]**  
 
-  **Executive Summary:** This report presents the technical findings of the ethical hacking assessment conducted for Department of Social Welfare and Development Region V WEBSITE. The assessment aimed to identify vulnerabilities within the organization's network infrastructure, applications, and systems. Through various testing methodologies, including penetration testing and vulnerability scanning, critical and high-risk issues were discovered. This report provides detailed descriptions of these findings, along with actionable recommendations for remediation.
+  **Executive Summary:** This report presents the technical findings of the ethical hacking assessment conducted for Department of Social Welfare and Development Region V Website. The assessment aimed to identify vulnerabilities within the organization's network infrastructure, applications, and systems. Through various testing methodologies, including penetration testing and vulnerability scanning, critical and high-risk issues were discovered. This report provides detailed descriptions of these findings, along with actionable recommendations for remediation.
 
 **Vulnerability Summary:**
 
@@ -47,6 +47,8 @@
 **10: Error Handling in Web Pages**
 -  High:  The PPIS.DSWD.GOV.PH website lacks proper error handling for error messages. For example, exposing whether a username or password is correct during login attempts might enable brute-force attacks.
 
+
+
 **Recommendation:**
 
 **1. Social Engineering:**
@@ -81,4 +83,4 @@
 
 **Executive Summary:** The findings of the ethical hacking assessment highlight several critical vulnerabilities and  security weaknesses within Department of Social Welfare and Development Region V organization's infrastructure and applications. By implementing the recommended remediation measures, Department of Social Welfare and Development Region V can significantly enhance its security posture and mitigate the risk of cyber threats and data breaches.
 
-**Signature:**  [Bardenas/Samuela]
+**Signature:**  [John Paul O.Bardenas/Michelle M. Samuela]
