@@ -1,5 +1,5 @@
 ### **Ethical Hacking Technical Report**  
-**Client: [Department of Social Welfare and Development Region V Website]**  
+**Client: [Department of Social Welfare and Development Region V]**  
 **Date: [May 15 2024]**  
 **Prepared by: [Bardenas John Paul O.] and [Samuela Michelle M.]**  
 
