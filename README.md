@@ -8,7 +8,7 @@
 **Vulnerability Summary:**
 
 **1. Social Engineering**
--  High: Phishing attacks, through clicking on unidentified links or messages, are a major threat to organizations, potentially leading to reputational harm and the exposure of sensitive data like passwords and personal IDs, including beneficiaries' landbank passwords.
+-  High: Phishing attacks, through clicking on unidentified links or messages, are a major threat to organizations, potentially leading to reputational harm and the exposure of sensitive data like passwords and personal IDs, including beneficiaries' sensitive information.
 
 **2. Web Applications**
 -  Critical: SQL injection involves injecting malicious SQL queries into input fields, exploiting database vulnerabilities, potentially leading to unauthorized access to sensitive data such as household IDs, addresses, phone numbers, listed family members, and financial statements.
@@ -21,7 +21,7 @@
 -  High: Unauthorized access enables attackers to manipulate network settings, intercept traffic, or launch other malicious activities, such as man-in-the-middle attacks.
 
 **4.  Weak Administrator Passwords**
--  Critical: Weak passwords for administrator accounts pose a critical security risk, as they can be easily guessed through brute-forced Attacks
+-  Critical: Weak passwords for administrator accounts pose a critical security risk, as they can be easily guessed through brute-force attacks.
 
 -  High:  the likelihood of unauthorized access to critical systems and resources to gain access and manipulate to sensitive information.
 
